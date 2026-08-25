@@ -1,0 +1,15 @@
+{
+	"name": "music-pro-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1582b547-ad6f-4134-aa41-0888e9fa906c",
+		"tenantId": "89005713-f9ba-423a-bd95-1ffe3a286b26"
+	}
+}
